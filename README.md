@@ -16,7 +16,7 @@ Notes: Marten depends on an environment variable (`marten_testing_database`) to 
 2. Set `marten_testing_database` manually by executing
 
 ```
-# export marten_testing_database=Host=localhost\;Port=5454\;Database=marten_test\;Username=postgres\;Password=Password12!
+export marten_testing_database=Host=localhost\;Port=5454\;Database=marten_test\;Username=postgres\;Password=Password12!
 ```
 
 ## Script list
